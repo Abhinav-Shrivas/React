@@ -25,7 +25,7 @@ Follow these steps to run the game locally:
 
 2. **Navigate to the Tic Tac Toe folder**
     ```bash
-    cd "tic tac toe"
+    cd "Tic Tac Toe"
 
 3. **Install dependencies**
     ```bash
