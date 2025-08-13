@@ -9,7 +9,7 @@ A feature-rich **Project Management App** built using **React** and **Tailwind C
 - 🎨 **Styling with Tailwind CSS** for a modern and responsive UI
 - 🔄 **State management** to dynamically switch between components
 - ⚠ **Error modal** implemented with `useImperativeHandle` for clean, controlled pop-ups
-- 🖱 **DOM manipulation** using `useRef` (e.g., focusing inputs or scrolling into view)
+- 🖱 **Accessing DOM elements** using `useRef` 
 - ➕ **Add projects** with custom details
 - ✅ **Add separate tasks** for each individual project
 
