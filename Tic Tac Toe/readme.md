@@ -21,7 +21,7 @@ Follow these steps to run the game locally:
 
 1. **Clone the repository**  
    ```bash
-  git clone https://github.com/Abhinav-Shrivas/React.git
+   git clone https://github.com/Abhinav-Shrivas/React.git
 
 2. **Navigate to the Tic Tac Toe folder**
     ```bash
